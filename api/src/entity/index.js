@@ -1,6 +1,4 @@
 const fs = require('fs')
-const { dirname } = require('path')
-
 
 const dir = fs.readdirSync(__dirname)
 
